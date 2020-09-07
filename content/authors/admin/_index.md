@@ -9,9 +9,16 @@ title: Daniela Schneevogt
 role: PhD Researcher in Forensic Linguistics
 bio: My research interests include ...
 interests:
-  - Artificial Intelligence
+  - Forensic Linguistics
+  - Applied Linguistics
+  - Discourse Analysis
+  - Digital Discourse
+  - Cyber Crime
+  - Crime Prevention
   - Computational Linguistics
-  - Information Retrieval
+  - Natural Language Processing
+  - Corpus Linguistics
+  - Sociolinguistics
 social:
   - icon: envelope
     icon_pack: fas
