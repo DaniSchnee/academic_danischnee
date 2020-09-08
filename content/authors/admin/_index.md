@@ -24,7 +24,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: "#contact"
-  - icon: twitter
+  - icon: twitter-square
     icon_pack: fab
     link: https://twitter.com/DanielaSchnee
   - icon: google-scholar
