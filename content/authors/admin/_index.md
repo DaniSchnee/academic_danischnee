@@ -3,7 +3,7 @@ title: Daniela Schneevogt
 role: PhD Researcher in Forensic Linguistics
 avatar_filename: avatar.jpg
 organizations:
-  - name: Aston Institute for Forensic Linguistic, Aston University
+  - name: Aston Institute for Forensic Linguistics, Aston University
     url: https://www2.aston.ac.uk/lss/research/lss-research/forensic-linguistics
 superuser: true
 authors:
