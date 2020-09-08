@@ -1,7 +1,7 @@
 ---
 organizations:
-  - name: Aston University
-    url: ""
+  - name: Aston Institute for Forensic Linguistic, Aston University
+    url: https://www2.aston.ac.uk/lss/research/lss-research/forensic-linguistics
 superuser: true
 authors:
   - admin
