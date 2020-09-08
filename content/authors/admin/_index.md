@@ -27,7 +27,7 @@ social:
   - icon: twitter-square
     icon_pack: fab
     link: https://twitter.com/DanielaSchnee
-  - icon: google-scholar
+  - icon: google
     icon_pack: ai
     link: https://scholar.google.co.uk/citations?user=17KPyK4AAAAJ&hl=en&oi=ao
   - link: https://www.linkedin.com/in/danielaschneevogt/
