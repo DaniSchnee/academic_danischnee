@@ -32,7 +32,7 @@ social:
     link: https://scholar.google.co.uk/citations?user=17KPyK4AAAAJ&hl=en&oi=ao
 education:
   courses:
-    - course: PhD in Forensic Linguistics
+    - course: PhD in Forensic Linguistics (ongoing)
       institution: Aston University, UK
       year: ""
     - course: MA in Forensic Linguistics
