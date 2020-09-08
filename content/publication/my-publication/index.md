@@ -1,5 +1,5 @@
 title: "My Publication Title"
-date: "2018-01-01"
+date: "January 2018"
 publication_types: "2"
 # 0 = Uncategorized
 # 1 = Conference paper
