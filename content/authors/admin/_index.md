@@ -15,7 +15,6 @@ interests:
   - Discourse Analysis
   - Digital Discourse
   - Cyber Crime
-  - Crime Prevention
   - Computational Linguistics
   - Natural Language Processing
   - Corpus Linguistics
