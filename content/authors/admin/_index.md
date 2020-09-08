@@ -44,7 +44,7 @@ education:
     - course: BA in International Information Management (with Psychology)
       institution: University of Hildesheim, Germany
       year: 2014
-email: ""
+email: schneevd@aston.ac.uk
 user_groups:
   - Researchers
   - Visitors
