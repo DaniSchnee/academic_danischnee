@@ -1,6 +1,6 @@
 ---
 organizations:
-  - name: Stanford University
+  - name: Aston University
     url: ""
 superuser: true
 authors:
@@ -25,24 +25,24 @@ social:
     link: "#contact"
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/DanielaSchnee
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://scholar.google.co.uk/citations?user=17KPyK4AAAAJ&hl=en&oi=ao
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Forensic Linguistics
+      institution: Aston University, UK
+      year: ""
+    - course: MA in Forensic Linguistics
+      institution: Aston University, UK
+      year: 2018
+    - course: MSc in IT and Cognition
+      institution: University of Copenhagen, Denmark
+      year: 2016
+    - course: BA in International Information Management (with Psychology)
+      institution: University of Hildesheim, Germany
+      year: 2014
 email: ""
 user_groups:
   - Researchers
