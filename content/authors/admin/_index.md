@@ -36,9 +36,6 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/DanielaSchnee
-  - icon: envelope
-    icon_pack: fas
-    link: mailto:schneevd@aston.ac.uk
 education:
   courses:
     - course: PhD in Forensic Linguistics (ongoing)
