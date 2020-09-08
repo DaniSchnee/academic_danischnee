@@ -23,22 +23,22 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: "#contact"
-  - icon: twitter-square
-    icon_pack: fab
-    link: https://twitter.com/DanielaSchnee
+    link: mailto:schneevd@aston.ac.uk
   - icon: google
     icon_pack: ai
     link: https://scholar.google.co.uk/citations?user=17KPyK4AAAAJ&hl=en&oi=ao
-  - link: https://www.linkedin.com/in/danielaschneevogt/
-    icon_pack: fab
-    icon: linkedin
   - icon_pack: ai
     icon: academia
     link: https://ku-dk.academia.edu/DanielaSchneevogt
   - icon: researchgate
     icon_pack: ai
     link: https://www.researchgate.net/scientific-contributions/2154258327-Daniela-Schneevogt
+  - link: https://www.linkedin.com/in/danielaschneevogt/
+    icon_pack: fab
+    icon: linkedin
+  - icon: twitter-square
+    icon_pack: fab
+    link: https://twitter.com/DanielaSchnee
 education:
   courses:
     - course: PhD in Forensic Linguistics (ongoing)
