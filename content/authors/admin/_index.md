@@ -21,9 +21,6 @@ interests:
   - Corpus Linguistics
   - Sociolinguistics
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: mailto:schneevd@aston.ac.uk
   - icon: google
     icon_pack: ai
     link: https://scholar.google.co.uk/citations?user=17KPyK4AAAAJ&hl=en&oi=ao
@@ -36,9 +33,12 @@ social:
   - link: https://www.linkedin.com/in/danielaschneevogt/
     icon_pack: fab
     icon: linkedin
-  - icon: twitter-square
+  - icon: twitter
     icon_pack: fab
     link: https://twitter.com/DanielaSchnee
+  - icon: envelope
+    icon_pack: fas
+    link: mailto:schneevd@aston.ac.uk
 education:
   courses:
     - course: PhD in Forensic Linguistics (ongoing)
