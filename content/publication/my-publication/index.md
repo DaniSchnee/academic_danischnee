@@ -1,5 +1,0 @@
-title: "My Publication Title"
-date: "January 2018"
-publication_types: "2"
-publication: "Journal ABC"
-abstract: "My abstract goes here."
