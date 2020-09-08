@@ -30,6 +30,9 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.co.uk/citations?user=17KPyK4AAAAJ&hl=en&oi=ao
+  - link: https://www.linkedin.com/in/danielaschneevogt/
+    icon_pack: fab
+    icon: linkedin
 education:
   courses:
     - course: PhD in Forensic Linguistics (ongoing)
