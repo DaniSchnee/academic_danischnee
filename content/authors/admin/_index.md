@@ -33,6 +33,12 @@ social:
   - link: https://www.linkedin.com/in/danielaschneevogt/
     icon_pack: fab
     icon: linkedin
+  - icon_pack: ai
+    icon: academia
+    link: https://ku-dk.academia.edu/DanielaSchneevogt
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/scientific-contributions/2154258327-Daniela-Schneevogt
 education:
   courses:
     - course: PhD in Forensic Linguistics (ongoing)
