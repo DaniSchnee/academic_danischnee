@@ -18,27 +18,39 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "PhD Researcher in Forensic Linguistics"
+  company = "Aston University"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Birmingham, UK"
+  date_start = "2018-10-01"
   date_end = ""
   description = """
-  Responsibilities include:
+  Current research project related to:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Criminal Online Communities
+  * Offender-to-offender Communications
+  * Cybercrime and Dark Web Fora
+  * Group Identity
+  * Online Identity
+  * Digital Discourse
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Teaching Assistant"
+  company = "Aston University"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Birmingham, UK"
+  date_start = "2019-09-15"
+  date_end = ""
+  description = """Co-teaching the UG module 'Introduction to Intercultural Communication'."""
+  
+  [[experience]]
+  title = "Teaching Assistant"
+  company = "Aston University"
+  company_url = ""
+  location = "Birmingham, UK"
+  date_start = "2019-09-15"
+  date_end = ""
+  description = """Delivering practical seminars for the Forensic Linguistics module 'Language as Evidence'."""
 
 +++
